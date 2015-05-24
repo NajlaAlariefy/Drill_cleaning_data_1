@@ -8,7 +8,7 @@ Getting and Cleaning Data Course Project
 To have a better understanding of the data, take a look at this file first.
 
 ### Run_Analysis.R
-#### Description
+##### Description
 This file will run all of the data summarization and tidying asked for in the project:
 
 1. Merges the training and the test sets to create one data set.
@@ -21,7 +21,7 @@ This file will run all of the data summarization and tidying asked for in the pr
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-#### Running Process
+##### Running Process
 First download the dataset: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 

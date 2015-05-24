@@ -16,7 +16,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 ### “UCI HAR Dataset” Folder
 
 | File |  Variable | Unit|Status|
-|-|-|
+|----|----|----|----|
 |activity_labels.txt| ActivityID| Numeric|used to connect activity names with the tidy dataset|
 |activity_labels.txt| __ActivityName__| Character| __included__ |
 |features.txt| FeatureID| Numeric|an unused index column|
@@ -26,16 +26,16 @@ One of the most exciting areas in all of data science right now is wearable comp
 ###"test" Folder
 
 |  File  |  Variable | Unit|Description/Status|
-|-|-|
-|subject_test.txt| SubjectID| Numeric|__included__|
+|----|----|----|----|
+|subject_test.txt| __SubjectID__| Numeric|__included__|
 |X_test.txt| __561 Variables__| Numeric| __included__. 561 features, they are mapped to FeatureName (features.txt)|
 |y_test.txt| ActivityID| Numeric|it is the classified activity column, used to map activity names in STEP 3|
 
 ###"train" Folder
 
 |  File  |  Variable | Unit|Description/Status|
-|-|-|
-|subject_train.txt| SubjectID| Numeric|__included__|
+|----|----|----|----|
+|subject_train.txt| __SubjectID__| Numeric|__included__|
 |X_train.txt| __561 Variables__| Numeric| __included__. 561 features, they are mapped to FeatureName (features.txt)|
 |y_train.txt| ActivityID| Numeric|it is the classified activity column, used to map activity names in STEP 3|
 

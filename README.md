@@ -25,7 +25,8 @@ This file will run all of the data summarization and tidying asked for in the pr
 First download the dataset: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-To run the R file, make sure the "UCI HAR Dataset" folder is in your working directory after it's been unzipped. 
++ To run the R file, make sure the "UCI HAR Dataset" folder is in your working directory after it's been unzipped. 
++ Also, make sure this file (Run_Analysis.R) is placed within "UCI HAR Dataset" folder.
 
 ### data_set_of_mean_values.txt
 This text file contains the dataset of all of the averaged data. It has the dataset from STEP 5.

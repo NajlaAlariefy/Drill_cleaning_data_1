@@ -1,11 +1,12 @@
-# UCI-HAR-Project
-Getting and Cleaning Data Course Project
+# Overview
+This is another drill from the Getting and Cleaning Data Course, the data to be processed is from the UCI-HAR dataset. 
 
 
 ## Files Contained: 
 
 ### CodeBook.md
-To have a better understanding of the data, take a look at this file first.
+Overview of the data, have a look at it first.
+
 
 ### Run_Analysis.R
 ##### Description
